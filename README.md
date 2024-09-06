@@ -1,6 +1,6 @@
 # 🚀 **Ibrahim Morad | Software Engineer**
 
-🎓 **Graduating Student of ALX Software Engineering Program**
+🎓 **Graduating Student of ALX Software Engineering Program** | 💻 **Experienced in Django for Web Development**
 
 📫 **Contact:** [Email](mailto:ibrahimmorad31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibrahim-morad-228410209/)
 
