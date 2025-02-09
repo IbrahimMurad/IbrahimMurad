@@ -1,84 +1,49 @@
-# 🚀 **Ibrahim Morad | Software Engineer**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Morad
+=====================================================================================================================================
 
-🎓 **Graduating Student of ALX Software Engineering Program** | 💻 **Experienced in Django for Web Development**
+A passionate web developer
+--------------------------
 
-📫 **Contact:** [Email](mailto:ibrahimmorad31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibrahim-morad-228410209/)
+I specialize in building scalable, secure web applications using Django, Flask, and Node.js, while also leveraging modern front-end technologies like React and Next.js. My journey through the ALX Software Engineering Program—from simple bash scripts and C fundamentals to advanced backend specialization—refined my problem-solving and development skills. I enjoy tackling complex challenges and continuously learning new technologies. Explore my repositories to see my work and contributions. Thanks for stopping by!
 
----
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [ibrahimmorad31@gmail.com](mailto:ibrahimmorad31@gmail.com)
+* 🚀  I'm currently working on [Maryema](http://github.com/IbrahimMurad/Maryema)
+* 🧠  I'm enhancing React and API designs
+* 🤝  I'm open to collaborating on Any projects that would enhance my skills and earn me new
 
-## 👋 **About Me**
-
-Hello! I'm Ibrahim Morad, a passionate software engineer trained through the rigorous **ALX Software Engineering Program**. This program sparked my passion for problem-solving and inspired me to build scalable, impactful solutions. My expertise lies in backend development, and I specialize in designing efficient database structures and architecting robust applications.
-
-I thrive on bringing ideas to life through code and am constantly exploring new technologies and frameworks. From automating workflows to developing full-fledged web applications, I aim to create user-friendly and high-performing products.
-
-### 🌟 **Core Values:**
-- Problem-Solving Mindset
-- Passion for Learning
-- Creativity & Innovation
-- Collaboration & Teamwork
-
----
-
-## 🛠 **Tech Stack & Tools**
-
-```yaml
-Programming Languages: Python, JavaScript, C, TypeScript, Bash, SQL
-Frameworks: Django, Flask, NodeJs, Express
-Front-End: HTML5, CSS3, Bootstrap, JavaScript
-Databases: MySQL, PostgreSQL, MongoDB, Redis, NoSQL
-Version Control: Git, GitHub
-DevOps: Docker, GitHub Actions, NGinx, SSL
-Other Tools & Technologies: REST APIs, OAuth, JWT, Redis (Caching), Advanced SQL, ORM, Web Servers
-```
-
-## 🌱 **What Inspires Me**
-I'm deeply inspired by technology’s ability to **solve real-world problems** and **positively impact society**. Whether it's contributing to open-source projects or developing scalable platforms, I’m always looking for ways to make a difference through code.
-
-## 💼 **Professional Experience**
-
-- **Full-Stack Developer | Airbnb Clone**  
-  *Role: Full-Stack Developer*  
-  *Tech: Flask, SQLAlchemy, RESTful API, HTML, CSS, jQuery*  
-  Developed a full-stack clone of Airbnb, implementing both front-end and back-end functionalities. Used Flask and SQLAlchemy to build a RESTful API, managed user authentication, and handled property listings. Created responsive and dynamic pages using HTML, CSS, and jQuery to improve user interaction.
-
-- **Database Designer | Kura**  
-  *Role: Database Structure Designer*  
-  *Tech: SQLAlchemy*  
-  Designed the database schema for a Poll platform to help companies and government institutions by involving staff or all citizens in decision-making, and implemented methods for interacting with the database (CRUD). Ensured optimal performance by organizing relationships between various entities and handling queries efficiently.
-
-- **Full-Stack Developer | PLATED**  
-  *Role: Full-Stack Developer*  
-  *Tech: Django (ORM, Views, Templates), Bootstrap*  
-  Led the development of an educational platform for secondary school students in Egypt. Built the entire stack using Django, including ORM for database management, and templates for the front end. Styled the front end with Bootstrap and ensured a smooth, responsive user experience. Integrated additional technologies to enhance performance and scalability.
-
-## 🏆 **Achievements & Certifications**
-
-- **ALX Software Engineering Program Graduate**  
-  - *Foundation Track:* Scored **134.41%**  
-    - Covered key areas of Computer Science.
-
-  - *Back-End Specialization:* Scored **135.67%**  
-    - Focused on advanced back-end technologies.
-
-📈 GitHub Stats
+<a href="https://www.github.com/IbrahimMurad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/IbrahimMurad?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
 
 
-## 💡 **Projects I'm Proud Of**
+### Socials
 
-### 1. **[BnB Clone](https://github.com/IbrahimMurad/AirBnB_clone_v4)**
-**Tech Stack:** Flask, SQLAlchemy, RESTful API, HTML, CSS, jQuery  
-A full-stack clone of Airbnb. I built both the backend and frontend, using Flask and SQLAlchemy to develop a RESTful API for managing users, properties, and bookings. On the frontend, I used HTML, CSS, and jQuery to create responsive, interactive pages, ensuring a seamless user experience.
+<p align="left"> <a href="https://discord.com/users/ibrahimmorad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/IbrahimMurad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ibrahim-morad-228410209/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 2. **[PLATED](https://github.com/ibrahimmurad/PLATED)**
-**Tech Stack:** Django (ORM, Views, Templates), Bootstrap  
-An educational platform for secondary school students in Egypt. As the lead full-stack developer, I built the application using Django, managing both backend and frontend functionality. I leveraged Django’s ORM for database management and Bootstrap to style the frontend, creating a user-friendly and scalable platform for educational content delivery.
 
-### 3. **[Kura](https://github.com/duncmv/Kura)**
-**Tech Stack:** SQLAlchemy  
-I was responsible for the database design and development for this project, building and managing the schema using SQLAlchemy. I implemented methods for interacting with the database, including querying, inserting, updating, and deleting data, to ensure smooth data handling and optimized performance.
 
-## 🚀 **What’s Next?**
-I’m actively seeking back-end developer roles where I can leverage my skills in Python, Django, Flask, and database design. I am eager to work on projects that challenge me and allow me to grow professionally.
+### Skills
 
-Feel free to reach out if you’re interested in collaborating or learning more about my work!
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/IbrahimMurad"><img src="https://github-readme-stats.vercel.app/api?username=IbrahimMurad&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="IbrahimMurad's GitHub stats" /></a>
+
+<a href="http://www.github.com/IbrahimMurad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMurad&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/IbrahimMurad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMurad&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/IbrahimMurad/Maryema" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMurad&repo=Maryema&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/IbrahimMurad/PLATED" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMurad&repo=PLATED&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/IbrahimMurad/todo-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMurad&repo=todo-list&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div>
