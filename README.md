@@ -8,7 +8,7 @@ I specialize in building scalable, secure web applications using Django, Flask, 
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ibrahimmorad31@gmail.com](mailto:ibrahimmorad31@gmail.com)
-* 🚀  I'm currently working on [Maryema](http://github.com/IbrahimMurad/Maryema)
+* 🚀  I'm currently working on QuizCraft.
 * 🧠  I'm enhancing React and API designs
 * 🤝  I'm open to collaborating on Any projects that would enhance my skills and earn me new
 
